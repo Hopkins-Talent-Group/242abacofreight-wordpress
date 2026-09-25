@@ -1,0 +1,14 @@
+wp-config.php
+wp-content/cache/
+wp-content/upgrade/
+wp-content/ai1wm-backups/
+*.wpress
+*.zip
+*.tar.gz
+*.sql
+*.sql.gz
+*.log
+.DS_Store
+.ox/
+graphify-out/
+node_modules/
